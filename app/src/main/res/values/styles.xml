@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="estiloBotones" parent="TextAppearance.AppCompat">
+        <item name="backgroundTint">@color/teal_700</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">15dp</item>
+    </style>
+    <style name="estiloEditText" parent="TextAppearance.AppCompat">
+        <item name="android:textColorHint">@color/cardview_light_background</item>
+        <item name="android:textSize">15dp</item>
+    </style>
+</resources>
